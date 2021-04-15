@@ -1,0 +1,15 @@
+/*RESET CSS*/
+body, div {
+  padding: 0;
+  margin: 0;
+  background-color: #222831;
+  font-family: Arial;
+}
+
+.container {
+  color: #e8e8e8;
+}
+
+.container h1 {
+  text-align: center;
+}
